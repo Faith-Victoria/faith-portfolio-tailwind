@@ -3,12 +3,12 @@ import cleanmate from './components/Assets/cleanmate.jpg.jpg'
 
 export const projects = [
     {
-      title: "React",
-      subtitle: "MERN Stack",
+      title: "Javascript",
+      subtitle: "Music app",
       description:
         "music app with plain HTML, CSS and Javascript, ",
       image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b3e5f3170908651.6465dd762dec0.jpg",
-      link: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b3e5f3170908651.6465dd762dec0.jpg",
+      link: "https://music-app-ochre-alpha.vercel.app/",
     },
     {
       title: "javascript",
