@@ -11,28 +11,28 @@ export const projects = [
       link: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b3e5f3170908651.6465dd762dec0.jpg",
     },
     {
-      title: "React Tracks",
-      subtitle: "Javascript",
+      title: "javascript",
+      subtitle: "Fun Game",
       description:
-        "A memory game built in Javascript ",
+        "Guess the number game ",
       image: "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/7097df168582095.Y3JvcCw0ODY4LDM4MDcsMzAxLDM3Mw.png",
       link: "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/7097df168582095.Y3JvcCw0ODY4LDM4MDcsMzAxLDM3Mw.png",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "https://travel-website-lovat.vercel.app/",
+      subtitle: "HTML,CSS and Bootstrap",
       description:
-        "travel website  ",
+        "Travel Website  ",
       image: "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/33a36c151289921.Y3JvcCw4NTcsNjcwLDMwNyww.jpg",
       link: "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/33a36c151289921.Y3JvcCw4NTcsNjcwLDMwNyww.jpg",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "",
+      subtitle: "React ",
       description:
-        " clean app to track activities",
+        " To Do App",
       image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/5572c8143806943.628190933967b.jpg",
-      link: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/5572c8143806943.628190933967b.jpg",
+      link: "https://todo-app-1-mxvv02fb9-faith-victoria.vercel.app/",
     },
   ];
 
