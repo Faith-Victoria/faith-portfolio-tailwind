@@ -14,9 +14,9 @@ export const projects = [
       title: "javascript",
       subtitle: "Fun Game",
       description:
-        "A game that aims to relax and stay cool the mind",
+        "A game that aims to relax and cool the mind",
       image: "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/7097df168582095.Y3JvcCw0ODY4LDM4MDcsMzAxLDM3Mw.png",
-      link: "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/7097df168582095.Y3JvcCw0ODY4LDM4MDcsMzAxLDM3Mw.png",
+      link: "https://guess-the-number-game-nu.vercel.app/",
     },
     {
       title: "Travelling Website",
