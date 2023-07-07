@@ -12,11 +12,13 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I am  a goal oriented, multi-talented human who is always committed 
-            to delivering quality work at the agreed time. I define myself by the 
-            work i do, i guarantee accurate execution ,commitment and value. I prefer
-            to keep learning, continue to challenge myself and do interesting things 
-            that matter. I have natural ability to inspire and bring ideas to life. 
+            I am a dedicated software engineer with a strong focus on delivering high-quality
+              work within project deadlines. With expertise in the JavaScript 
+              language and frameworks, I excel in developing innovative solutions to problems.
+                Constantly staying up-to-date with the latest industry trends, I am committed to continuous 
+                learning and optimizing processes
+                for increased productivity. I am dedicated to empowering businesses 
+              and enhancing user experiences through innovative software engineering. 
           </p>
           <div className="flex justify-center">
             <a
