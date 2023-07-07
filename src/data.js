@@ -14,23 +14,23 @@ export const projects = [
       title: "javascript",
       subtitle: "Fun Game",
       description:
-        "Guess the number game ",
+        "A game that aims to relax and stay cool the mind",
       image: "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/7097df168582095.Y3JvcCw0ODY4LDM4MDcsMzAxLDM3Mw.png",
       link: "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/7097df168582095.Y3JvcCw0ODY4LDM4MDcsMzAxLDM3Mw.png",
     },
     {
-      title: "https://travel-website-lovat.vercel.app/",
+      title: "Travelling Website",
       subtitle: "HTML,CSS and Bootstrap",
       description:
-        "Travel Website  ",
+        "Travel Website that allows users to book travels online",
       image: "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/33a36c151289921.Y3JvcCw4NTcsNjcwLDMwNyww.jpg",
-      link: "https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/33a36c151289921.Y3JvcCw4NTcsNjcwLDMwNyww.jpg",
+      link: "https://travel-website-lovat.vercel.app/",
     },
     {
-      title: "",
+      title: "To Do App",
       subtitle: "React ",
       description:
-        " To Do App",
+        " An app that helps you set and plan tasks ",
       image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/5572c8143806943.628190933967b.jpg",
       link: "https://todo-app-1-mxvv02fb9-faith-victoria.vercel.app/",
     },
